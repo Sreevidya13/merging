@@ -1,0 +1,2 @@
+file 3 f3
+content added to the file3
